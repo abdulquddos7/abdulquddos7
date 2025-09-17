@@ -9,22 +9,22 @@
   </a>
 </p>
 
-I'm a passionate **Software Engineer** with **15+ years of experience** building scalable, secure, multi-tenant, and cloud-native applications.
+I'm a passionate **Senior Software Engineer** with **15+ years of experience** building scalable, secure, multi-tenant, and cloud-native applications.
 
 ---
 
 ## 🚀 What I’m Working On
-- 🔭 Developing **cloud-based APIs** using **ASP.NET Core** and **Azure**
-- 🌱 Exploring **AI integrations** into enterprise systems
-- 💡 Architecting modern **FinTech**, **EdTech**, and **eCommerce** solutions
+- 🔭 Designing and engineering scalable **cloud-based applications**
+- 🌱 Exploring **AI and machine learning integrations** to enhance enterprise-grade applications
+- 💡 Architecting and optimizing modern solutions across **FinTech**, **EdTech**, and **eCommerce** domains
 
 ---
 
 ## 🧠 Ask Me About
-- ✅ .NET Core & C#
-- ✅ Azure & GCP cloud platforms
-- ✅ System architecture & microservices
-- ✅ Leading and mentoring dev teams
+- ✅ Scalable software engineering with modern languages & frameworks (.NET Core, C#, and beyond)
+- ✅ Cloud-native development & deployment on Azure and Google Cloud Platform (GCP)
+- ✅ System architecture & microservices design for enterprise applications
+- ✅ Technical leadership, mentoring engineers, driving best practices, and leading high-performing dev teams
 
 ---
 
@@ -43,6 +43,6 @@ DevOps        : Azure DevOps, TeamCity, Git
 Databases     : Microsoft SQL Server, PostgreSQL
 Reporting     : Telerik Reporting, Kendo UI for jQuery
 Architecture  : Microservices, SPA (Single Page Apps)
-Domains       : FinTech, EdTech, Commercial Lending, E-Commerce (NopCommerce)
+Domains       : FinTech, EdTech, SBA Commercial Lending, E-Commerce (NopCommerce)
 
 
