@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I'm a passionate **.NET developer** with **15+ years of experience** building scalable, secure, multi-tenant, and cloud-native applications.
+I'm a passionate **Software Engineer** with **15+ years of experience** building scalable, secure, multi-tenant, and cloud-native applications.
 
 ---
 
